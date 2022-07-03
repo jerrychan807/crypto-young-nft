@@ -8,7 +8,7 @@
 ![20220703202943](https://raw.githubusercontent.com/jerrychan807/imggg/master/image/20220703202943.png)
 
 - [网站](http://199.255.96.224:3000/)
-- [opensea]()
+- [opensea](https://opensea.io/collection/cryptoyoung-v2)
 
 # 文件夹
 
@@ -21,7 +21,20 @@
 
 # Install:
 
+## SmartContract:
+
+```bash
+cd contract/
+# 部署到polygon主网
+yarn hardhat deploy --network polygon
+# polygonscan验证
+yarn hardhat verify --contract contracts/CryptoYoung.sol:CryptoYoung --constructor-args arguments.ts --network 
+polygon YourContractAddress
+```
+
 ...
+...
+(updating)
 
 # Refs:
 
