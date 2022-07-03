@@ -1,6 +1,6 @@
 ![CryptoYoungLogo](https://raw.githubusercontent.com/jerrychan807/imggg/master/image/CryptoYoungLogo.jpg)
 
-[Free mint on Polygon Now]()
+[Free mint on Opensea(Polygon) Now](https://opensea.io/collection/cryptoyoung-v2)
 
 
 # 在线网站
