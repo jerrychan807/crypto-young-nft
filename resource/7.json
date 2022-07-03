@@ -1,0 +1,58 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "base"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "danny"
+    },
+    {
+      "trait_type": "TopsColor",
+      "value": "#FD6F5D"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "detached"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "up"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ada"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "pointed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "pucker"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "none"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "collared"
+    },
+    {
+      "trait_type": "ClothesColor",
+      "value": "#E0DDFF"
+    }
+  ],
+  "name": "CryptoYoung #7",
+  "image": "https://raw.githubusercontent.com/jerrychan807/crypto-young-nft/main/resource/7.png"
+}
