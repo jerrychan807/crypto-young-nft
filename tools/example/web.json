@@ -1,0 +1,44 @@
+{
+  'gender': 'male',
+  'wrapperShape': 'squircle',
+  'background': {
+    'color': '#FD6F5D'
+  },
+  'widgets': {
+    'face': {
+      'shape': 'base'
+    },
+    'tops': {
+      'shape': 'turban',
+      'fillColor': '#FD6F5D'
+    },
+    'ear': {
+      'shape': 'attached'
+    },
+    'earrings': {
+      'shape': 'none'
+    },
+    'eyebrows': {
+      'shape': 'down'
+    },
+    'eyes': {
+      'shape': 'ellipse'
+    },
+    'nose': {
+      'shape': 'pointed'
+    },
+    'glasses': {
+      'shape': 'none'
+    },
+    'mouth': {
+      'shape': 'nervous'
+    },
+    'beard': {
+      'shape': 'none'
+    },
+    'clothes': {
+      'shape': 'collared',
+      'fillColor': '#FFEBA4'
+    }
+  }
+}

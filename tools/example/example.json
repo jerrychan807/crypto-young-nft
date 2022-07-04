@@ -1,0 +1,62 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "#F4D150"
+    },
+    {
+      "trait_type": "Face",
+      "value": "base"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "pixie"
+    },
+    {
+      "trait_type": "TopsColor",
+      "value": "#FD6F5D"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "attached"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "down"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "smiling"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "curve"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "pucker"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "none"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "smiling"
+    },
+    {
+      "trait_type": "ClothesColor",
+      "value": "#506AF4"
+    }
+  ],
+  "name": "CryptoYoung #0",
+  "image": "https://raw.githubusercontent.com/jerrychan807/imggg/master/CryptoYoung/0.png"
+}
