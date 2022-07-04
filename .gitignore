@@ -284,3 +284,7 @@ log/
 */artifacts/*
 */cache/*
 */deployments/*
+
+*bak.py
+contract/hardhat.config_bak.ts
+*.bak
