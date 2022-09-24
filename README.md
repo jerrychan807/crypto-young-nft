@@ -8,7 +8,7 @@
 
 ![20220704005920](https://raw.githubusercontent.com/jerrychan807/imggg/master/image/20220704005920.png)
 
--  [Avatar Generator Website](https://vue-color-avatar-rosy.vercel.app/): `https://vue-color-avatar-rosy.vercel.app/`
+-  [Avatar Generator Website](http://nft.foolisheddy.top/): `http://nft.foolisheddy.top/`
 -  [Opensea](https://opensea.io/collection/cryptoyoung-v2): `https://opensea.io/collection/cryptoyoung-v2`
 - [Free mint on Polygon Now](https://polygonscan.com/address/0xc1e8efe8d62b855c34009013a8d354d093f3e7f1#writeContract): `https://polygonscan.com/address/0xc1e8efe8d62b855c34009013a8d354d093f3e7f1#writeContract`
 
