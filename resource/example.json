@@ -1,0 +1,36 @@
+{
+    "name": "SFT SOAP Tutorial",
+    "symbol": "SOAP",
+    "description": "SolanaGame steel sword available after Level 4",
+    "image": "https://i.pinimg.com/736x/0a/bb/e5/0abbe546e479edc1eb62f5a8ccd66328.jpg",
+    "external_url": "https://SolanaGame.io",
+    "attributes": [
+      {
+        "trait_type": "What Dis",
+        "value": "A soap"
+      },
+      {
+        "trait_type": "Twitter",
+        "value": "All day errday"
+      }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "DGvqBBxZZypb5H9jZ39zM3K2HHNruanpdHxkZjQHmf1b",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "type": "image/jpg",
+                "uri": "https://i.pinimg.com/736x/0a/bb/e5/0abbe546e479edc1eb62f5a8ccd66328.jpg"
+            }
+        ],
+        "category": "image"
+    },
+    "collection": {
+        "name": "SOAP",
+        "family": "SOAP"
+    }
+  }
