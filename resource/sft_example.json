@@ -1,0 +1,21 @@
+{
+  "name": "FirstSFT",
+  "symbol": "FSFT",
+  "description": "FirstSFT demo description",
+  "image": "https://raw.githubusercontent.com/jerrychan807/crypto-young-nft/main/resource/0.png",
+  "external_url": "https://www.baidu.com/",
+  "attributes": [
+    {
+      "trait_type": "hello",
+      "value": "1"
+    }
+  ],
+  "properties": {
+      "creators": [
+          {
+              "address": "DGvqBBxZZypb5H9jZ39zM3K2HHNruanpdHxkZjQHmf1b",
+              "share": 100
+          }
+      ]
+  }
+}
